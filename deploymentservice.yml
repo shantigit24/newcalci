@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: newcalci-container
-        image: shantidocker123/newcalci:latest
+        image: shantidocker123/calci
         ports:
         - containerPort: 80
 ---
